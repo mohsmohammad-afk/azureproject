@@ -1,0 +1,15 @@
+{
+	"name": "df-ahazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c597bc8e-4738-40b8-b9d4-d30a4f84341c",
+		"tenantId": "1618f80c-c4b6-420b-87f3-024953079694"
+	}
+}
